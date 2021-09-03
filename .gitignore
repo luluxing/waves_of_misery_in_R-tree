@@ -1,0 +1,10 @@
+# maven output
+/target
+log/*
+# testng output
+test-output/*
+
+# eclipse files and directories
+.classpath
+.project
+.settings/*
